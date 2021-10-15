@@ -1,5 +1,5 @@
 The start of learning Full Stack WebDev through TheOdinProject.com!
 
-Although I have touched into HTML, CSS and JS prior to this course, relearning this material is definitely important for potentially pivoting into being a Full Stack Web Developer!
+Although I have briefly worked with HTML, CSS and JS prior to this course, relearning this material is definitely important in the pursuit of potentially pivoting into becoming a Full Stack Web Developer (from a Data Science background)!
 
 Since I am currently on Keto, these recipes will be Keto related ;).
